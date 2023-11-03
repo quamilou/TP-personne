@@ -2,7 +2,7 @@
 public class UtilPersonne{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Personne pers1;
 		pers1 = new Personne();
 		Personne pers2;

@@ -1,7 +1,7 @@
 public class Personne {
-	private String nom;
-	private String prenom;
-	private int age;
+	protected String nom;
+	protected String prenom;
+	protected int age;
 	
 	public void anniversaire() {
 		age += 1;
